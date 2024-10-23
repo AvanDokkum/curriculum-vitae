@@ -1,17 +1,19 @@
 # docs-curriculum-vitae-arjan
 
-Something about me: 
+I'm looking for new exciting opportunities. 
+Something about me:
 (add more)
 
 Name:
 Location:
 Date-of-birth:
-Languages: Dutch(native tongue), Engels
+Languages: Dutch(native tongue), English
+Email:
 LinkedIn:
-Github:
+GitHub:
 
 Programming:
-Java
+Java 
 Spring, Security + Boot
 React
 Javascript
@@ -42,10 +44,11 @@ Work History:
 2019-2020; Accountmanager Affiliate Marketing at TradeTrackerNL, (add more)
 2017-2018; Content/Marketing-Strategy at Source1Media, (add more)
 2014; Internship Production and Editing at Blue Circle RTL Boulevard, (add more)
-2013-2021; Farmhand (part-time), (add more)
+2009-2021; Farmhand at local farm, (add more)
 
-contact me: 
-(add email)
+Want to know more?
+Contact me: 
+(add Email, linkedIn, GitHub)
 
 
 
